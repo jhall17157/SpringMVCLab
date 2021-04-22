@@ -25,19 +25,10 @@ public class MenuController {
         }
     }
 
-    @RequestMapping("/credits")
-    public String showCredits() {
-        return "credits";
-    }
-
     @RequestMapping("/")
-    public String showHomePage() {
+    public String showHomePage(Model model) {
+        model.addAttribute("stuff", menuItemArray);
         return "index";
     }
 
-    @RequestMapping("/menu")
-    public String showMenu(Model model) {
-        model.addAttribute("stuff", menuItemArray);
-        return "menu";
-    }
 }

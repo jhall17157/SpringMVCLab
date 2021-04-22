@@ -1,30 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Empanadas",
-    "description": "Argentina is world-famous for its beef. Enjoy an Argentine classic with these juicy and crispy fried beef empanadas.",
-    "imageFile": "img/empanadas.jpg",
-    "price": 7.99
+    "name": "Manhattan",
+    "description": "Smooth whiskey manhattan on the rocks.",
+    "imageFile": "img/Manhattan.jpg"
   },
   {
     "id": 2,
-    "name": "Choripán",
-    "description": "The choripán is a chorizo sandwich often found as a street food or appetizer in Argentina, particularly for sporting events.",
-    "imageFile": "img/choripan.jpg",
-    "price": 5.99
+    "name": "Martini",
+    "description": "A fragrant gin martini served up.",
+    "imageFile": "img/Martini.jpg"
   },
   {
     "id": 3,
-    "name": "Fugazzeta de Verdura",
-    "description": "Fugazzeta is a double-crusted version of fugazza, stuffed with cheese, and topped with the same sweet onions. Fugazzeta de verdura has all of this plus a layer of sautéed spinach and vegetables.",
-    "imageFile": "img/fugazzeta.png",
-    "price": 14.99
+    "name": "Lemondrop",
+    "description": "A zesty yet sweet lemondrop martini with sugar on the rim.",
+    "imageFile": "img/lemondrop.jpg"
   },
   {
     "id": 4,
-    "name": "Tortilla de Guisantes con Jamón",
-    "description": "This delicious Spanish tortilla with ham and peas makes the perfect breakfast, lunch, or dinner.",
-    "imageFile": "img/tortilla.jpg",
-    "price": 12.99
+    "name": "Cosmopolitan",
+    "description": "A beautifully pink martini.",
+    "imageFile": "img/Cosmopolitan.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Old Fashion",
+    "description": "A sweet medley of bourbon, cherries, bitters, orange and sugar on the rocks.",
+    "imageFile": "img/OldFashion.jpg"
   }
 ]
